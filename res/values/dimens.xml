@@ -1,0 +1,6 @@
+<resources>
+
+    <dimen name="menu_def_height">50dip</dimen>
+    <dimen name="sharp_def_height">70dip</dimen>
+
+</resources>
